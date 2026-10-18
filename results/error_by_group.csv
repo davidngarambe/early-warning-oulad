@@ -1,0 +1,31 @@
+feature,group,n,n_at_risk,recall,flag_rate
+code_module,AAA,154,42,0.452,0.286
+code_module,BBB,1269,551,0.837,0.661
+code_module,CCC,735,413,0.896,0.695
+code_module,DDD,1047,545,0.872,0.694
+code_module,EEE,547,197,0.807,0.548
+code_module,FFF,1321,598,0.846,0.628
+code_module,GGG,503,192,0.786,0.66
+age_band,0-35,3907,1838,0.863,0.674
+age_band,35-55,1630,683,0.794,0.572
+age_band,55<=,39,17,0.706,0.41
+highest_education,A Level or Equivalent,2458,994,0.786,0.56
+highest_education,HE Qualification,807,299,0.726,0.467
+highest_education,Lower Than A Level,2210,1204,0.92,0.8
+highest_education,No Formal quals,47,25,0.92,0.851
+highest_education,Post Graduate Qualification,54,16,0.75,0.389
+imd_band,0-10%,512,297,0.919,0.803
+imd_band,10-20,552,286,0.902,0.777
+imd_band,20-30%,622,333,0.892,0.751
+imd_band,30-40%,604,271,0.875,0.699
+imd_band,40-50%,589,272,0.838,0.633
+imd_band,50-60%,576,256,0.879,0.667
+imd_band,60-70%,501,206,0.772,0.579
+imd_band,70-80%,501,207,0.763,0.549
+imd_band,80-90%,449,172,0.756,0.49
+imd_band,90-100%,450,176,0.75,0.498
+imd_band,Unknown,220,62,0.71,0.4
+disability,N,5001,2218,0.832,0.625
+disability,Y,575,320,0.922,0.797
+gender,F,2455,1074,0.823,0.631
+gender,M,3121,1464,0.859,0.651
