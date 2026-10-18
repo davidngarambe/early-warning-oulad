@@ -3,7 +3,7 @@
 A machine learning project that predicts, after four weeks, which online students will fail or withdraw from a course.
 
 Notebook: https://colab.research.google.com/drive/1BLT7CGejndqQfdL_bhX1hviP_xnQ0MHL?usp=sharing
-Report: https://docs.google.com/document/d/1CoMJBYDcmCHd5xVYmTanjBtd_C_XyRoUlpRMe5EdJZI/edit?usp=sharing
+Report: https://docs.google.com/document/d/1tYljkUzRHovpIPM2wrNUaU0sHfZT8AWa7qMDeZIHuhc/edit?usp=sharing
 Google Drive (data and saved models): https://drive.google.com/drive/folders/1FA4lc0D8QMjtWFIrF8a5-wxsPXQ4j30C?usp=sharing
 
 THE PROBLEM
